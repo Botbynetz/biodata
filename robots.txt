@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://botbynetz.github.io/biodata/sitemap.xml
+
+# Allow search engines to crawl all pages
+Allow: /index.html
+Allow: /about.html
+Allow: /skills.html
+Allow: /projects.html
+Allow: /contact.html
+Allow: /style.css
+Allow: /script.js
+
+# Disallow unnecessary files
+Disallow: /README.md
+Disallow: /.gitignore
+Disallow: /PANDUAN-FOTO-PROFIL.md
